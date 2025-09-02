@@ -1,11 +1,11 @@
 # Soumia Tamrani
 
-**Full Stack Developer** • **Passionate about Building Scalable Web Solutions**
+**Full Stack Developer** • **Building Scalable & Modern Web Solutions**
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumia-tamrani/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:soumia.tamrani@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tamranisoumia01@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/soumia-tamrani)
 
 </div>
@@ -14,9 +14,11 @@
 
 ## About Me
 
-Full Stack Developer specializing in modern web applications with expertise in JavaScript/TypeScript and Java ecosystems. I focus on building clean, scalable, and maintainable solutions that deliver exceptional user experiences.
+Full Stack Developer specializing in **modern web applications**.  
+Proficient in **JavaScript/TypeScript**, **React/Next.js**, **Node.js/NestJS**, and **Java/Spring Boot**.  
+I focus on building **clean, scalable, and maintainable solutions** that deliver outstanding user experiences.
 
-**Philosophy:** Transforming complex ideas into elegant technical solutions.
+> *"Transforming complex ideas into elegant technical solutions."*
 
 ---
 
@@ -36,7 +38,7 @@ Full Stack Developer specializing in modern web applications with expertise in J
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### Database & Tools
+### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -48,34 +50,40 @@ Full Stack Developer specializing in modern web applications with expertise in J
 ## Core Expertise
 
 **🏗️ Full Stack Development**  
-Building end-to-end web applications using React/Next.js frontends with NestJS/Spring Boot backends. Expert in creating RESTful APIs, implementing authentication systems, and managing database operations.
+- Building end-to-end web applications (React/Next.js frontends, NestJS/Spring Boot backends)  
+- RESTful APIs, authentication systems, and database operations  
 
 **🔧 System Architecture**  
-Designing scalable microservices architectures, implementing Docker containerization, and optimizing application performance. Experience with both SQL and NoSQL database design and optimization.
+- Scalable microservices architectures and Docker containerization  
+- SQL & NoSQL database design and performance optimization  
 
 **🎨 Modern Frontend Development**  
-Creating responsive, accessible user interfaces with modern frameworks. Expertise in component-based architecture, state management, and implementing pixel-perfect designs with Tailwind CSS.
+- Responsive, accessible, and pixel-perfect UIs  
+- Component-based architecture, state management, and Tailwind CSS  
 
 **⚡ Performance & Quality**  
-Implementing comprehensive testing strategies, optimizing application performance, and following security best practices. Experience with CI/CD pipelines and automated deployment workflows.
+- Testing strategies, performance tuning, and security best practices  
+- CI/CD pipelines and automated deployment workflows  
 
 ---
 
+## 💡 Let's Connect & Collaborate
 
+I'm always excited to discuss new opportunities, innovative projects, and share knowledge with fellow developers. Whether you're looking to collaborate on a project or just want to chat about technology, feel free to reach out!
 
-## Contact
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamrani-soumia-a5286a270/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamranisoumia01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumia-tamrani)
 
-Open to discussing new opportunities, collaborations, and innovative projects.
-
-**📧 tamranisoumia01@gmail.com**  
-**💼 [LinkedIn](https://www.linkedin.com/in/soumia-tamrani/)**  
-**🌐 [Portfolio](https://github.com/soumia-tamrani)**
+</div>
 
 ---
 
 <div align="center">
 
-*"Code with purpose, build with passion"*
+*"Code with purpose, build with passion"*  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=soumia-tamrani&color=0077B5&style=flat)
 
