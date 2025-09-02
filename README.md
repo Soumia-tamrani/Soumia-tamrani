@@ -25,7 +25,6 @@ Full Stack Developer specializing in modern web applications with expertise in J
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -62,27 +61,13 @@ Implementing comprehensive testing strategies, optimizing application performanc
 
 ---
 
-## Featured Projects
 
-### Enterprise Web Application
-**Tech Stack:** React + Next.js + NestJS + MySQL + Docker  
-Full-featured business application with role-based authentication, real-time data processing, and comprehensive admin dashboard. Containerized deployment with automated CI/CD pipeline.
-
-### Microservices E-commerce Platform
-**Tech Stack:** Java + Spring Boot + React + MongoDB + Docker  
-Scalable e-commerce solution with separate services for user management, inventory, payments, and notifications. Implemented event-driven architecture with message queuing.
-
-### Real-time Analytics Dashboard
-**Tech Stack:** Vue.js + Node.js + TypeScript + MongoDB  
-Interactive dashboard providing real-time business metrics with WebSocket connections, data visualization, and export capabilities.
-
----
 
 ## Contact
 
 Open to discussing new opportunities, collaborations, and innovative projects.
 
-**📧 soumia.tamrani@gmail.com**  
+**📧 tamranisoumia01@gmail.com**  
 **💼 [LinkedIn](https://www.linkedin.com/in/soumia-tamrani/)**  
 **🌐 [Portfolio](https://github.com/soumia-tamrani)**
 
